@@ -1,8 +1,6 @@
 .env
 .venv
-/migrations
 /alembic
-migrations
 alembic
 __pycache__
 alembic.ini
