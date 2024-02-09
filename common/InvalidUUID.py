@@ -1,0 +1,2 @@
+class InvalidUUIDError(Exception):
+    pass
